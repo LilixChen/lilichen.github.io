@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "lili.jpg"
+  name             : "Dr Lili Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Lili is an Associate Lecturer (Education Specialist) in the Department of Electrical and Electronic Engineering at the University of Melbourne, Australia. She completed her PhD in Wireless Communication at the University of Melbourne in 2025. Her doctoral research focused on the application of Graph Neural Networks for resource management in wireless communications. Alongside her research, she has extensive teaching experience as a Teaching Assistant, having delivered engaging tutorials and workshops across a range of undergraduate and postgraduate subjects."
+  location         : "Melbourne, Australia"
+  employer         : "University of Melbourne"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lili.chen1@unimelb.edu.au" 
 
   # Academic websites
   academia         : # URL
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "LilixChen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "lili-chen-1a91381b2"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
