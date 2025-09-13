@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lili.jpg"
   name             : "Dr Lili Chen"
   pronouns         : # example: "she/her"  
   bio              : "Lili is an Associate Lecturer (Education Specialist) in the Department of Electrical and Electronic Engineering at the University of Melbourne, Australia. She completed her PhD in Wireless Communication at the University of Melbourne in 2025. Her doctoral research focused on the application of Graph Neural Networks for resource management in wireless communications. Alongside her research, she has extensive teaching experience as a Teaching Assistant, having delivered engaging tutorials and workshops across a range of undergraduate and postgraduate subjects."
