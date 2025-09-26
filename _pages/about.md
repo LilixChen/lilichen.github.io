@@ -20,14 +20,14 @@ Research Interests
 
 News and Updates
 ======
-- **Aug 2025**: Presented our research "GenAI-Assisted Criterion-Referenced Grading in Engineering Mathematics: Enhancing Feedback, Efficiency, and Assessment Quality" in [Centre for the Study of Higher Education].(https://melbourne-cshe.unimelb.edu.au/).
+- **Aug 2025**: Presented our research "GenAI-Assisted Criterion-Referenced Grading in Engineering Mathematics: Enhancing Feedback, Efficiency, and Assessment Quality" in [Centre for the Study of Higher Education](https://melbourne-cshe.unimelb.edu.au/).
 - **Feb 2025**: Awarded Best Student Poster Presentation at the 22nd Australian Communication Theory Workshop.
 - **Jun 2024**:Presented our paper in IEEE International Conference on Communications 2024, US.
 - **Feb 2024**: Won 5-Minute Thesis Competition at the 21st Australian Communication Theory Workshop.
 - **Dec 2023**:Presented our paper in IEEE Global Communications Conference 2023, Malaysia.
 - **Jun 2023**:Presented our paper in IEEE International Conference on Communications 2023, Italy.
 
-%Site-wide configuration
-%------
+#Site-wide configuration
+#------
 
 
