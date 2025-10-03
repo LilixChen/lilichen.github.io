@@ -1,0 +1,51 @@
+{
+  "about": {
+    "title": "About Me",
+    "content": "Write about yourself here - your interests, hobbies, personal journey, or anything you'd like to share about your life outside of work. This is your space to express who you are beyond your professional achievements."
+  },
+  "hobbies": [
+    {
+      "name": "Gym",
+      "description": "I can do pull ups!",
+      "icon": "fas fa-dumbbell"
+    }
+  ],
+  "experiences": [
+    {
+      "year": "2024",
+      "title": "Life Milestone",
+      "description": "Describe a significant personal experience or achievement from this year",
+      "location": "Location if applicable"
+    },
+    {
+      "year": "2023",
+      "title": "Another Experience",
+      "description": "Share another meaningful moment or journey",
+      "location": "Location if applicable"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Project Name",
+      "year": "2024",
+      "description": "Description of what you built or accomplished in your personal time",
+      "technologies": ["Technology 1", "Technology 2"],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Another Personal Project",
+      "year": "2023",
+      "description": "Another project you worked on for fun or personal growth",
+      "technologies": ["Technology 3", "Technology 4"],
+      "url": ""
+    }
+  ],
+  "philosophy": {
+    "title": "Life Philosophy",
+    "content": "Share your thoughts on life, values, or what drives you personally. What principles guide your decisions and how do you approach challenges?"
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "message": "Feel free to reach out if you'd like to connect about any of these topics or just have a chat!"
+  }
+}
