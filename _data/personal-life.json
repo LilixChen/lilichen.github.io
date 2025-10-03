@@ -6,8 +6,7 @@
   "hobbies": [
     {
       "name": "Gym",
-      "description": "I can do pull ups!",
-      "icon": "fas fa-dumbbell"
+      "description": "I can do pull ups!"
     }
   ],
   "experiences": [
