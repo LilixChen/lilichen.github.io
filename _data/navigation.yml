@@ -25,6 +25,9 @@ main:
 
   - title: "Personal Life"
     url: /personal-life/
+
+  - title: "My Team"
+    url: /my-team/
     
   # - title: "CV"
   #   url: /cv-json/
