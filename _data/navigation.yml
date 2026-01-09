@@ -20,14 +20,16 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
+
+  - title: "My Team"
+    url: /my-team/
 
   - title: "Personal Life"
     url: /personal-life/
 
-  - title: "My Team"
-    url: /my-team/
+
     
   # - title: "CV"
   #   url: /cv-json/

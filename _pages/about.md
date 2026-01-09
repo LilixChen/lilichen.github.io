@@ -27,7 +27,6 @@ News and Updates
 - **Dec 2023**:Presented our paper in IEEE Global Communications Conference 2023, Malaysia.
 - **Jun 2023**:Presented our paper in IEEE International Conference on Communications 2023, Italy.
 
-#Site-wide configuration
-#------
+
 
 
