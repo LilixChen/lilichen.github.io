@@ -1,30 +1,30 @@
 {
-  "overview": "Welcome to our research team! We are a group of passionate researchers working on cutting-edge topics in wireless communications, machine learning, and education technology.",
+  "overview": "Welcome to our research team! We are a group of passionate researchers working on cutting-edge topics in wireless communications, machine learning, and engineering education.",
   "members": [
     {
-      "name": "Student Name",
-      "role": "PhD Student",
+      "name": "Hao Ni & Alfred Wang",
+      "role": "Capstone Student",
       "description": "Brief description of their research focus and background",
-      "email": "student@unimelb.edu.au",
+      #"email": "student@unimelb.edu.au",
       "website": "https://example.com",
-      "research_interests": ["Graph Neural Networks", "Wireless Communications"]
+      "research_interests": ["GenAI", "Feedback"]
     },
     {
       "name": "Another Student",
-      "role": "Master's Student",
+      "role": "Capstone Student",
       "description": "Brief description of their research focus and background",
       "email": "student2@unimelb.edu.au",
-      "research_interests": ["Machine Learning", "Education Technology"]
+      "research_interests": ["Graph Neural Networks", "Wireless Communications"]
     }
   ],
-  "alumni": [
-    {
-      "name": "Former Student",
-      "role": "PhD Student",
-      "period": "2020-2023",
-      "description": "Brief description of their research achievements",
-      "current_position": "Research Scientist at Tech Company"
-    }
-  ],
-  "openings": "We are always looking for motivated students to join our team. If you are interested in research opportunities in wireless communications, machine learning, or education technology, please feel free to contact us!"
+  #"alumni": [
+    #{
+      #"name": "Former Student",
+      #"role": "PhD Student",
+     # "period": "2020-2023",
+     # "description": "Brief description of their research achievements",
+     # "current_position": "Research Scientist at Tech Company"
+    #}
+  #],
+  "openings": "We are always looking for motivated students to join our team. If you are interested in research opportunities in wireless communications, machine learning, or engineering education, please feel free to contact us!"
 }
