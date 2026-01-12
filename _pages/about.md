@@ -21,6 +21,7 @@ Research Interests
 
 News and Updates
 ======
+- **Dec 2025**: Presented our research "Bridging Qualitative Rubrics and AI: A Binary Question Framework for Criterion-Referenced Grading in Engineering" at the 36th Australasian Association For Engineering Education Annual Conference, Brisbane. 
 - **Nov 2025**: Awarded IEEE Victorian Section Outstanding Women in Engineering Volunteer. 
 - **Aug 2025**: Presented our research "GenAI-Assisted Criterion-Referenced Grading in Engineering Mathematics: Enhancing Feedback, Efficiency, and Assessment Quality" in [Centre for the Study of Higher Education](https://melbourne-cshe.unimelb.edu.au/).
 - **Feb 2025**: Awarded Best Student Poster Presentation at the 22nd Australian Communication Theory Workshop, Perth.
