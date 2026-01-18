@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Foundations of Electrical Networks (ELEN20005)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
