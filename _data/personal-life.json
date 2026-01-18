@@ -1,7 +1,7 @@
 {
   "about": {
     "title": "About Me",
-    "content": "Write about yourself here - your interests, hobbies, personal journey, or anything you'd like to share about your life outside of work. This is your space to express who you are beyond your professional achievements."
+    #"content": "Write about yourself here - your interests, hobbies, personal journey, or anything you'd like to share about your life outside of work. This is your space to express who you are beyond your professional achievements."
   },
   "hobbies": [
     {
