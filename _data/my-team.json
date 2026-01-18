@@ -3,17 +3,19 @@
   "members": [
     {
       "name": "Hao Ni & Alfred Wang",
-      "role": "Capstone Student",
-      "description": "Brief description of their research focus and background",
+      "role": "2025 S2 Capstone Student",
+      "description": "Co-supervise with Prof. Gavin Buskes"
+
+      #"description": "Brief description of their research focus and background",
       #"email": "student@unimelb.edu.au",
-      "website": "https://example.com",
+      #"website": "https://example.com",
       "research_interests": ["GenAI", "Feedback"]
     },
     {
-      "name": "Another Student",
-      "role": "Capstone Student",
-      "description": "Brief description of their research focus and background",
-      "email": "student2@unimelb.edu.au",
+      "name": "Junyu Liao, Ran Shi, Chenyu Li",
+      "role": "2025 S2 Capstone Student",
+      "description": "Co-supervise with Prof. Jamie Evans",
+      #"email": "student2@unimelb.edu.au",
       "research_interests": ["Graph Neural Networks", "Wireless Communications"]
     }
   ],
