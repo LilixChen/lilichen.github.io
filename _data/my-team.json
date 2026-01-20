@@ -4,29 +4,20 @@
     {
       "name": "Hao Ni & Alfred Wang",
       "role": "2025 S2 Capstone Student",
-      "description": "Co-supervise with Prof. Gavin Buskes"
-
-      #"description": "Brief description of their research focus and background",
-      #"email": "student@unimelb.edu.au",
-      #"website": "https://example.com",
+      "description": "Co-supervise with Prof. Gavin Buskes",
+      "email": null,
+      "website": null,
       "research_interests": ["GenAI", "Feedback"]
     },
     {
       "name": "Junyu Liao, Ran Shi, Chenyu Li",
       "role": "2025 S2 Capstone Student",
       "description": "Co-supervise with Prof. Jamie Evans",
-      #"email": "student2@unimelb.edu.au",
+      "email": null,
+      "website": null,
       "research_interests": ["Graph Neural Networks", "Wireless Communications"]
     }
   ],
-  #"alumni": [
-    #{
-      #"name": "Former Student",
-      #"role": "PhD Student",
-     # "period": "2020-2023",
-     # "description": "Brief description of their research achievements",
-     # "current_position": "Research Scientist at Tech Company"
-    #}
-  #],
+  "alumni": [],
   "openings": "We are always looking for motivated students to join our team. If you are interested in research opportunities in wireless communications, machine learning, or engineering education, please feel free to contact me!"
 }
