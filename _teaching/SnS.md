@@ -1,7 +1,7 @@
 ---
 title: "Signals and Systems (ELEN30012)"
 collection: teaching
-type: "Undergraduate subject"
+type: "Undergraduate/Postgraduate subject"
 permalink: /teaching/SnS
 venue: "University of Melbourne, EEE Department"
 date: 2025-01-01

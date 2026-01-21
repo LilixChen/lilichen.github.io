@@ -1,7 +1,7 @@
 ---
 title: "Analog and Digital Electronics Concepts (ELEN30014)"
 collection: teaching
-type: "Undergraduate subject"
+type: "Undergraduate/Postgraduate subject"
 permalink: /teaching/ADEC
 venue: "University of Melbourne, EEE/ME Department"
 date: 2024-01-01
