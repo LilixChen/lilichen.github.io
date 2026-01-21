@@ -27,15 +27,7 @@
       "location": null
     }
   ],
-  "projects": [
-    {
-      "name": "Personal Project Name",
-      "year": "2024",
-      "description": "Description of what you built or accomplished in your personal time",
-      "technologies": ["Technology 1", "Technology 2"],
-      "url": "https://example.com"
-    }
-  ],
+  "projects":null,
   "philosophy": {
     "title": "Life Philosophy",
     "content": "Work hard, play hard. Keep exploring."
