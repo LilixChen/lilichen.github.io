@@ -4,11 +4,11 @@ collection: teaching
 type: "Postgraduate subject"
 permalink: /teaching/Pram
 venue: "University of Melbourne, EEE Department"
-date: 2023-01-01
+date: 2022-01-01
 location: "City, Country"
 ---
 
-Work with Prof. Brian Krongold
+Work with Dr. Rajitha Senanayake, Dr. Yuting Fang and Prof. Brian Krongold
 
 Topics include:
 
