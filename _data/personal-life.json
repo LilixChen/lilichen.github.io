@@ -16,15 +16,15 @@
   "experiences": [
     {
       "year": "2024",
-      "title": "Life Milestone",
+      "title": "Experiences",
       "description": "Describe a significant personal experience or achievement from this year",
       "location": "Location if applicable"
     },
     {
-      "year": "2023",
-      "title": "Another Experience",
-      "description": "Share another meaningful moment or journey",
-      "location": "Location if applicable"
+      "year": "2023-2025",
+      "title": "Travel",
+      "description": "Malaysia, Singapore, Italy (Rome, Florence, Venice, Milan), USA (LA, San Francisco, Denver), New Zealand (Christchurch), China (Beijing, Shanghai, Shenzhen, Changsha, Chengdu, Zhangjiajie, Guangzhou)",
+      "location": null
     }
   ],
   "projects": [
@@ -34,13 +34,6 @@
       "description": "Description of what you built or accomplished in your personal time",
       "technologies": ["Technology 1", "Technology 2"],
       "url": "https://example.com"
-    },
-    {
-      "name": "Another Personal Project",
-      "year": "2023",
-      "description": "Another project you worked on for fun or personal growth",
-      "technologies": ["Technology 3", "Technology 4"],
-      "url": ""
     }
   ],
   "philosophy": {
