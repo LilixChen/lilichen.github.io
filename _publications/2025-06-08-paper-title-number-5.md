@@ -2,12 +2,24 @@
 title: "GNN-Based Joint Channel and Power Allocation in Heterogeneous Wireless Networks"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+permalink: /publication/2025-06-08-paper-title-number-5
+#excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-06-07
 venue: '2024 IEEE International Conference on Communications Workshops (ICC Workshops)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10615380'
 citation: 'L. Chen, J. Zhu and J. Evans, "GNN-Based Joint Channel and Power Allocation in Heterogeneous Wireless Networks," 2024 IEEE International Conference on Communications Workshops (ICC Workshops), Denver, CO, USA, 2024, pp. 233-238, doi: 10.1109/ICCWorkshops59551.2024.10615380.'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+The optimal allocation of channels and power resources plays a crucial role in ensuring minimal interference, maximal data rates, and efficient energy utilisation. As a successful
+approach for tackling resource management problems in wireless
+networks, Graph Neural Networks (GNNs) have attracted a lot of
+attention. This article proposes a GNN-based algorithm to address
+the joint resource allocation problem in heterogeneous wireless
+networks. Concretely, we model the heterogeneous wireless network as a heterogeneous graph and then propose a graph neural
+network structure intending to allocate the available channels and
+transmit power to maximise the network throughput. Our proposed joint channel and power allocation graph neural network
+(JCPGNN) comprises a shared message computation layer and
+two task-specific layers, with a dedicated focus on channel and
+power allocation tasks, respectively. Comprehensive experiments
+demonstrate that the proposed algorithm achieves satisfactory
+performance but with higher computational efficiency compared
+to traditional optimisation algorithms.
