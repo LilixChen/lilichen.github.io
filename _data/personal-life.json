@@ -7,6 +7,10 @@
     {
       "name": "Gym",
       "description": "I can do pull ups!"
+    },
+    {
+      "name": "Crocheting",
+      "description": "Beginner :)"
     }
   ],
   "experiences": [
@@ -41,7 +45,7 @@
   ],
   "philosophy": {
     "title": "Life Philosophy",
-    "content": "Share your thoughts on life, values, or what drives you personally. What principles guide your decisions and how do you approach challenges?"
+    "content": "Work hard, play hard. Keep exploring."
   },
   "contact": {
     "title": "Let's Connect",
