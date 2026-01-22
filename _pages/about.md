@@ -21,17 +21,13 @@ Research Interests
 
 News and Updates
 ======
-#- **Dec 2025**: Presented our research "Bridging Qualitative Rubrics and AI: A Binary Question Framework for Criterion-Referenced Grading in Engineering" at the 36th Australasian Association For Engineering Education Annual Conference, Brisbane. 
 - **Nov 2025**: Awarded IEEE Victorian Section Outstanding Women in Engineering Volunteer. 
 - **Aug 2025**: Presented our research "GenAI-Assisted Criterion-Referenced Grading in Engineering Mathematics: Enhancing Feedback, Efficiency, and Assessment Quality" in [Centre for the Study of Higher Education](https://melbourne-cshe.unimelb.edu.au/).
 - **Aug 2025**:Finalist of Tutor of the Year, FEIT, University of Melbourne.
 - **Feb 2025**: Awarded Best Student Poster Presentation at the 22nd Australian Communication Theory Workshop, Perth.
 - **Nov 2024**: Organised IEEE Victorian Section Outstanding Event 2024. 
 - **Nov 2024**: Awarded IEEE Victorian Section Outstanding Women in Engineering Student Branch 2024. 
-#- **Jun 2024**:Presented our paper "[GNN-Based Joint Channel and Power Allocation in Heterogeneous Wireless Networks](https://ieeexplore.ieee.org/abstract/document/10615380)" in IEEE International Conference on Communications 2024, US.
 - **Feb 2024**: Won 5-Minute Thesis Competition at the 21st Australian Communication Theory Workshop.
-#- **Dec 2023**:Presented our paper "[Accelerating Graph Neural Networks via Edge Pruning for Power Allocation in Wireless Networks](https://ieeexplore.ieee.org/abstract/document/10465155)" in IEEE Global Communications Conference 2023, Malaysia.
-#- **Jun 2023**:Presented our paper "[Graph Neural Networks for Power Allocation in Wireless Networks with Full Duplex Nodes](https://ieeexplore.ieee.org/abstract/document/10283511)" in IEEE International Conference on Communications 2023, Italy.
 - **Jun 2022**:Diane Lemaire Scholarship, FEIT, University of Melbourne.
 - **Jun 2022**:Dean's Honours List, FEIT, University of Melbourne.
 
